@@ -12,4 +12,4 @@ use http://www.codecademy.com/ to make a game
 
 Use HTML and CSS along with JS to make a web game
 
-Use <a href="http://git-scm.com/downloads/guis"></a> to upload files from your computer to git (like if lucas wants to uplad his quiz please do)
+Use <a href="http://git-scm.com/downloads/guis">API</a> to upload files from your computer to git (like if lucas wants to uplad his quiz please do)
